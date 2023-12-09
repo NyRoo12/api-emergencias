@@ -33,6 +33,3 @@ def obtener_conexion():
 ### 3. Iniciar en la carpeta principal con 
 
 ``` python3 run.py ```
-
-
-# api-emergencias
