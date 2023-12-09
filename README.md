@@ -7,7 +7,7 @@ Este proyecto es una API Flask que gestiona información de la base de datos de 
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/api-gestion-emergencia.git
+git clone https://github.com/NyRoo12/api-emergencias.git
 cd api-gestion-emergencia
 
 ```
@@ -33,3 +33,5 @@ def obtener_conexion():
 ### 3. Iniciar en la carpeta principal con 
 
 ``` python3 run.py ```
+
+
