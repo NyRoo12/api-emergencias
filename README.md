@@ -8,7 +8,7 @@ Este proyecto es una API Flask que gestiona información de la base de datos de 
 
 ```bash
 git clone https://github.com/NyRoo12/api-emergencias.git
-cd api-gestion-emergencia
+cd api-emergencias
 
 ```
 
@@ -35,3 +35,6 @@ def obtener_conexion():
 ``` python3 run.py ```
 
 
+## Recordar tener la base de datos instalada en mariadb
+
+Se tiene el archivo GestionEmergencia.sql en la cual tienen que instalar/importar para que todo funcione correctemente , una vez instalado y configurado con la api. Funcionara correctamente como se desea.
